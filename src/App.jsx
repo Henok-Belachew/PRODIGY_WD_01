@@ -1,7 +1,7 @@
 function App() {
 
   return (
-    <div className="bg-red-700 font-semibold">
+    <div className="bg-space-cadet text-white p-6 font-semibold">
       Tailwindcss is working fine!
     </div>
   )
